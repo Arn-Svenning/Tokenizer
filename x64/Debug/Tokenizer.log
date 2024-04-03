@@ -1,0 +1,12 @@
+﻿  Interpreter.cpp
+C:\Users\arn\source\repos\Tokenizer\Interpreter.h(14,2): warning C4091: 'extern ': ignored on left of 'ConfigOption' when no variable is declared
+  (compiling source file 'Interpreter.cpp')
+  
+C:\Users\arn\source\repos\Tokenizer\Interpreter.cpp(260,12): warning C4834: discarding return value of function with [[nodiscard]] attribute
+  Tokenizer.cpp
+C:\Users\arn\source\repos\Tokenizer\Interpreter.h(14,2): warning C4091: 'extern ': ignored on left of 'ConfigOption' when no variable is declared
+  (compiling source file 'Tokenizer.cpp')
+  
+  TokenLoader.cpp
+  Generating Code...
+  Tokenizer.vcxproj -> C:\Users\arn\source\repos\Tokenizer\x64\Debug\Tokenizer.exe
